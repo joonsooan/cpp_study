@@ -28,14 +28,17 @@ int main()
         77
     }
     */
-    cout << A.name << endl;
+    /*cout << A.name << endl;
     cout << A.position << endl;
     cout << A.height << endl;
     cout << A.weight << endl;
 
-    B.height = 170;
+    B = {
+
+    };
 
     cout << B.height << endl;
+    */
 
     MyStruct C[2] = {
         {"A", "A", 1, 1},
